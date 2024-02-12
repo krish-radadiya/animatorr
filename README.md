@@ -76,3 +76,23 @@ Project Evaluation:
 - User satisfaction with the application’s functionality and UI/UX
 - Quality of code and project structure
 - Presentation quality and clarity of communication
+- ================================Screen Shots====================================
+
+<img src="https://github.com/krish-radadiya/animatorr/assets/113992828/f729bf70-5bdc-43ef-8764-739c8f075cce" width="250">
+<img src="https://github.com/krish-radadiya/animatorr/assets/113992828/8c4f2a9d-2704-4fa6-b130-dbd4eccbf571" width="250">
+<img src="https://github.com/krish-radadiya/animatorr/assets/113992828/37fe9408-1c5e-44e5-915b-7cbdfcd51b74" width="250">
+<img src="https://github.com/krish-radadiya/animatorr/assets/113992828/5b0b4763-fee2-4d10-8c3f-fcf5f129711a" width="250">
+<img src="https://github.com/krish-radadiya/animatorr/assets/113992828/2bb66152-1bb4-4358-a0c5-7b083bd9e090" width="250">
+<img src="https://github.com/krish-radadiya/animatorr/assets/113992828/f44d2ef4-f342-47be-81e3-a87673489320" width="250">
+<img src="https://github.com/krish-radadiya/animatorr/assets/113992828/3fa9fc4f-596f-4eb0-a2d6-ecd7a705807f" width="250">
+<img src="https://github.com/krish-radadiya/animatorr/assets/113992828/ecb942a0-b100-491e-840e-10ef48bcb758" width="250">
+<img src="https://github.com/krish-radadiya/animatorr/assets/113992828/9df52ca0-01e4-47e3-9944-764740aa2fd4" width="250">
+
+
+
+
+
+
+
+
+
